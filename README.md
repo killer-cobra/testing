@@ -1,14 +1,4 @@
-# testing
-For studing
 
-
-
-```mermaid
-Modified --> 
-B --> C
-
-```
-fff
 ```mermaid
 graph LR;
   untracked -- "git add" --> staged;
